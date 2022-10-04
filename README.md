@@ -1,7 +1,7 @@
 # Chat-Analyzer
 
-The project was about anayzing a chat data. 
-- [ciao.zip](ciao.zip): It containes the analyzed data
+Dataset:
+- [ciao.zip](ciao.zip)
 
 Per visualizzare la lista dei membri digitare /members <br/>
 Per visualizzare la lista dei canali digitare /channels <br/>
