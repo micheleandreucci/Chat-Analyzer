@@ -2,7 +2,7 @@
 
 The project was about anayzing a chat data.
 
-Per visualizzare la lista dei membri digitare /members
+Per visualizzare la lista dei membri digitare /members --<
 Per visualizzare la lista dei canali digitare /channels
 Per visualizzare la lista dei canali e i loro membri appartenti digitare /showall
 Per visualizzare i membri di un solo channell digitare /search <nome_channel>
