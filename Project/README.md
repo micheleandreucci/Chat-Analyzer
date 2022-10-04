@@ -1,5 +1,3 @@
-﻿# sna4slack [![Build Status](https://travis-ci.com/softeng-inf-uniba/progetto1718-engelbart.svg?token=Edy5AWhMYbsroXRVxzQv&branch=master)](https://travis-ci.com/softeng-inf-uniba/progetto1718-engelbart) [![Coverage Status](https://coveralls.io/repos/github/softeng-inf-uniba/progetto1718-engelbart/badge.svg?t=UKIOWP)](https://coveralls.io/github/softeng-inf-uniba/progetto1718-engelbart)
-
 La struttura della repository si presenta nel seguente modo:
 ```
 |--build
